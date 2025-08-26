@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dalia</h1>
-<h3 align="center">A passionate Flutter Developer and Machine learning from Egypt</h3>
+<h3 align="center">💻 Flutter Developer & ML Enthusiast | Ex-Frontend Developer with strong programming experience | From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daliaosama27&label=Profile%20views&color=0e75b6&style=flat" alt="daliaosama27" /> </p>
 
