@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # مهم جداً علشان يقدر يعمل push
+  contents: write   # مهم علشان يقدر يعمل push
 
 jobs:
   build:
@@ -26,4 +26,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_BRANCH: gh-pages   # 👈 هنا بيولّد على gh-pages مش main
+          USERNAME: daliaosama27   # 👈 غيريها لو اليوزر مختلف
+          BRANCH_NAME: main        # 👈 هنا هيتخزن جوه الـ main
