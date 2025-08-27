@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dalia Osama</h1>
 <h3 align="center">💻 Flutter Developer & ML Enthusiast | Ex-Frontend Developer with strong programming experience | From Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliaosama27" alt="daliaosama27" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=daliaosama27&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/daliaosama27?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/daliaosama27?style=social)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
