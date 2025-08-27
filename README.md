@@ -39,14 +39,16 @@
 - ⚡ <strong>Fun fact:</strong> <em>Life is hard لكن جميلة</em>
 
 </div>
-
 <h3 align="center">📊 My GitHub Stats</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaosama27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daliaosama27&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=daliaosama27&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaosama27&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="30%" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=daliaosama27&show_icons=true&locale=en&theme=tokyonight" width="30%" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daliaosama27&theme=tokyonight" width="30%" alt="GitHub Streak"/>
+</p>
+
 <hr></hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
